@@ -3,6 +3,12 @@ A split rectangular keyboard, cutting costs by using (Reviung39/41/30 keyboard P
 
 Base code has been added but will be tweaked after final product is created
 
+# Schematics
+
+# PCB
+
+# CAD Files
+
 # BOM 
 
 PCB --- 1 piece
